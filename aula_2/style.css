@@ -1,0 +1,22 @@
+.link_section {
+  color: rgb(75, 43, 1);
+}
+
+html body p a {
+  color: aqua;
+  font-size: large;
+  text-decoration: none;
+}
+
+#diferente {
+  color: purple;
+  text-decoration: none;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.small_text {
+  font-size: small;
+}
