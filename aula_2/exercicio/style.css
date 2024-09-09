@@ -1,0 +1,23 @@
+.filmes_de_hoje {
+  color: darkred;
+}
+
+.remove_underline {
+  text-decoration: none;
+}
+
+.filmes_de_amanha {
+  color: darkblue;
+}
+
+h2 a {
+  color: seagreen;
+}
+
+p {
+  font-size: 20px;
+}
+
+html {
+  font-family: Arial;
+}
