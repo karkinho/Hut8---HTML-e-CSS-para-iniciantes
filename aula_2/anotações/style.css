@@ -20,3 +20,20 @@ html body p a {
 .small_text {
   font-size: small;
 }
+
+h1 {
+  background: rgba(121, 64, 133, 0.5);
+}
+
+.box_model_exemple {
+  background: purple;
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  border: 10px solid black;
+  margin: 100px;
+}
+
+body {
+  margin: 0px;
+}
