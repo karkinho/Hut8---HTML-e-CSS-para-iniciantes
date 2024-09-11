@@ -37,3 +37,8 @@ h1 {
 body {
   margin: 0px;
 }
+
+img {
+  width: 100%;
+  display: block;
+}
