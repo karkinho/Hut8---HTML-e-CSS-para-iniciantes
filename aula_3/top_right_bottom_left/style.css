@@ -1,0 +1,14 @@
+img {
+  width: 500px;
+}
+
+span {
+  display: inline-block;
+  background: gray;
+}
+
+span {
+  padding: 20px 40px 60px 80px;
+  border: 10px solid black;
+  border-width: 20px 40px;
+}
