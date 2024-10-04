@@ -1,0 +1,40 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+body {
+  margin: 0px;
+}
+
+h1 {
+  border: 2px solid black;
+  padding: 20px 20px 200px 20px;
+}
+
+h2 {
+  background: gray;
+  border: 1px solid gray;
+  margin: 0px;
+  padding: 10px;
+  flex-grow: 1;
+  flex-basis: auto;
+  flex-shrink: 1;
+  flex: 1;
+}
+
+p {
+  background: #e7e7e7;
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 20px;
+  margin: 0px;
+}
+
+.fix {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+}
